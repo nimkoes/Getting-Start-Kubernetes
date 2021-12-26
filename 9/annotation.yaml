@@ -3,8 +3,8 @@ kind: Pod
 metadata:
   name: pod-annotation
   annotations:
-    builder: "seongmi Lee (seongmi.lee@gmail.com)"
-    buildDate: "20210502"
+    builder: "nimkoes (nimkoes@gmail.com)"
+    buildDate: "20211226"
     imageRegistry: https://hub.docker.com/
 spec:
   containers:
